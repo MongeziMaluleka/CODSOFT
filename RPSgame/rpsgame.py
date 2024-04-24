@@ -4,9 +4,9 @@ import random
 
 # Paths to image files for the game buttons
 image_paths = [
-    "/home/shinigami/CODSOFT/CODSOFT/RPSgame/images/paper.png",
-    "/home/shinigami/CODSOFT/CODSOFT/RPSgame/images/rock.png",
-    "/home/shinigami/CODSOFT/CODSOFT/RPSgame/images/scissors.png"
+    "/home/shinigami/CODSOFT/RPSgame/images/paper.png",
+    "/home/shinigami/CODSOFT/RPSgame/images/rock.png",
+    "/home/shinigami/CODSOFT/RPSgame/images/scissors.png"
 ]
 # Labels for each game button
 button_texts = ["paper", "rock", "scissors"]
